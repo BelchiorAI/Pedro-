@@ -1,7 +1,8 @@
-# Pedro-
-
 Hi there 👋, I am Pedro Pascoal. I'm a software engineer with strong expertise in backend development. I'm naturally curious and love experimenting with new technologies to build better, smarter solutions.
 
+
+
+-----
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -31,8 +32,8 @@ Hi there 👋, I am Pedro Pascoal. I'm a software engineer with strong expertise
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="kotlin" />
-      <br>Kotlin
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Motoko_Logo.png/48px-Motoko_Logo.png" width="48" height="48" alt="motoko" />
+      <br>Motoko
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
@@ -138,3 +139,4 @@ Hi there 👋, I am Pedro Pascoal. I'm a software engineer with strong expertise
   </tr>
 
 </table>
+</div>
