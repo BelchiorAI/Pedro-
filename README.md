@@ -2,6 +2,7 @@ Hi there 👋, I am Pedro Pascoal. I'm a software engineer with strong expertise
 
 
 
+
 -----
 
 > Tools and technologies that I have worked with and am interested in
@@ -32,7 +33,7 @@ Hi there 👋, I am Pedro Pascoal. I'm a software engineer with strong expertise
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Motoko_Logo.png/48px-Motoko_Logo.png" width="48" height="48" alt="motoko" />
+        <img src="https://cdn.jsdelivr.net/gh/dfinity/motoko/doc/logo.png" width="48" height="48" alt="motoko" />
       <br>Motoko
     </td>
     <td align="center" width="96">
@@ -83,8 +84,12 @@ Hi there 👋, I am Pedro Pascoal. I'm a software engineer with strong expertise
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=joomla" width="48" height="48" alt="joomla" />
+        <img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" width="48" height="48" alt="joomla" />
       <br>Joomla!
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="dotnet" />
+      <br>.NET
     </td>
   </tr>
 
@@ -136,7 +141,10 @@ Hi there 👋, I am Pedro Pascoal. I'm a software engineer with strong expertise
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
       <br>GitHub
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="gitlab" />
+      <br>GitLab
+    </td>
   </tr>
 
 </table>
-</div>
