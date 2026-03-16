@@ -138,14 +138,3 @@ Hi there 👋, I am Pedro Pascoal. I'm a software engineer with strong expertise
   </tr>
 
 </table>
-
-## 📈 My GitHub stats
-
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=guiomav&theme=aura&show_icons=true&hide_border=true&count_private=true" alt="guiomav's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=guiomav&theme=aura&hide_border=true" alt="guiomav's Streak" height="165">
-  </p>
-</div>
-
-![Profile views](https://komarev.com/ghpvc/?username=guiomav&label=Profile%20views&color=60598F&style=flat)
