@@ -2,7 +2,7 @@ Hi there, I'm Pedro Pascoal — a fullstack engineer specializing in backend sys
 
 ---
 
-> Tools and technologies that I have worked with and am interested in
+> Tools and technologies that I have worked with 
 
 <table>
 
