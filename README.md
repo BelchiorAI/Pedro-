@@ -1,4 +1,4 @@
-Hi there, I am Pedro Pascoal. I'm a software engineer with strong expertise in backend development. I'm naturally curious and love experimenting with new technologies to build better, smarter solutions.
+Hi there, I'm Pedro Pascoal — a fullstack engineer specializing in backend systems and production-grade AI. I've designed and deployed AI models that run in the real world, and I'm always chasing the next problem worth solving.
 
 ---
 
