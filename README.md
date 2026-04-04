@@ -1,9 +1,6 @@
 Hi there, I am Pedro Pascoal. I'm a software engineer with strong expertise in backend development. I'm naturally curious and love experimenting with new technologies to build better, smarter solutions.
 
-
-
-
------
+---
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -144,6 +141,14 @@ Hi there, I am Pedro Pascoal. I'm a software engineer with strong expertise in b
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="gitlab" />
       <br>GitLab
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="terraform" />
+      <br>Terraform
+    </td>
+    <td align="center" width="96">
+        <img src="https://avatars.githubusercontent.com/u/115962839?s=48&v=4" width="48" height="48" alt="uv" />
+      <br>uv
     </td>
   </tr>
 
