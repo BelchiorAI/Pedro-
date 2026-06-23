@@ -30,6 +30,14 @@ Hi there, I'm Pedro Pascoal — a fullstack engineer specializing in backend sys
       <br>C#
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="c" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="cpp" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/dfinity/motoko/doc/logo.png" width="48" height="48" alt="motoko" />
       <br>Motoko
     </td>
@@ -77,12 +85,12 @@ Hi there, I'm Pedro Pascoal — a fullstack engineer specializing in backend sys
       <br>Rest API
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
-      <br>Docker
+        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="django" />
+      <br>Django
     </td>
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" width="48" height="48" alt="joomla" />
-      <br>Joomla!
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
+      <br>FastAPI
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="dotnet" />
@@ -92,12 +100,32 @@ Hi there, I'm Pedro Pascoal — a fullstack engineer specializing in backend sys
 
   <tr>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="terraform" />
+      <br>Terraform
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" width="48" height="48" alt="joomla" />
+      <br>Joomla!
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mySQL" />
       <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="sqlite" />
+      <br>SQLite
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
@@ -107,6 +135,9 @@ Hi there, I'm Pedro Pascoal — a fullstack engineer specializing in backend sys
         <img src="https://skillicons.dev/icons?i=appwrite" width="48" height="48" alt="appwrite" />
       <br>Appwrite
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
       <br>Git
@@ -127,9 +158,6 @@ Hi there, I'm Pedro Pascoal — a fullstack engineer specializing in backend sys
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
       <br>Postman
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
       <br>Figma
@@ -141,10 +169,6 @@ Hi there, I'm Pedro Pascoal — a fullstack engineer specializing in backend sys
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="gitlab" />
       <br>GitLab
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="terraform" />
-      <br>Terraform
     </td>
     <td align="center" width="96">
         <img src="https://avatars.githubusercontent.com/u/115962839?s=48&v=4" width="48" height="48" alt="uv" />
