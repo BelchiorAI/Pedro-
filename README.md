@@ -112,6 +112,14 @@ Hi there, I'm Pedro Pascoal — a fullstack engineer specializing in backend sys
       <br>Terraform
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="nginx" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/proxmox/E57000" width="48" height="48" alt="proxmox" />
+      <br>Proxmox
+    </td>
+    <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" width="48" height="48" alt="joomla" />
       <br>Joomla!
     </td>
@@ -169,6 +177,10 @@ Hi there, I'm Pedro Pascoal — a fullstack engineer specializing in backend sys
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="gitlab" />
       <br>GitLab
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
+      <br>npm
     </td>
     <td align="center" width="96">
         <img src="https://avatars.githubusercontent.com/u/115962839?s=48&v=4" width="48" height="48" alt="uv" />
